@@ -1,12 +1,12 @@
-Myst_Studio system requirements (local, $0 investment)
+Myst_Studio system requirements (100% Free & Open Source, $0 investment)
 
 1. OS: Windows 10/11 64-bit
-2. Python: 3.12+
+2. Python: 3.12+ (Standard Library only — PSF License)
 3. RAM: 16 GB minimum (8 GB recommended)
 4. Storage: external NTFS drive, ~10 GB free
 5. GPU: NVIDIA RTX 4050 6 GB (driver/CUDA UMD 13.5 present, verified)
-6. Inference engine: koboldcpp (no Ollama)
-7. Public tunnel: cloudflared
-8. Models: GGUF files under 02_Myst_Series (Myst_Nano_2B, Myst_Prime_4B, Myst_Realm_8B, Myst_Architect_7B)
+6. Inference engine: koboldcpp (AGPL-3.0, no Ollama)
+7. Public tunnel: cloudflared (Apache-2.0, zero-cost Quick Tunnel)
+8. Models: Open-weight GGUF files under 02_Myst_Series
 
-No Ollama dependency required.
+No Ollama or paid cloud dependency required.
