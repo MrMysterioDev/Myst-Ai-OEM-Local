@@ -1,22 +1,140 @@
 [
   {
+    "q": "hello",
+    "a": "Greetings! I am Mr.AI, a neural network structured and trained from scratch inside Myst_Studio on 100% free and open-source datasets.",
+    "source": "Myst_Studio Core",
+    "license": "Apache-2.0"
+  },
+  {
+    "q": "who are you",
+    "a": "I am Mr.AI — a custom neural model built and trained from scratch on E:\\Myst_Studio using Databricks Dolly-15k (CC BY-SA 3.0), Wikipedia (CC BY-SA 4.0), arXiv (Open Access), and Project Gutenberg (Public Domain).",
+    "source": "Myst_Studio Core",
+    "license": "Apache-2.0"
+  },
+  {
+    "q": "how are you trained",
+    "a": "I am trained from scratch using custom subword/word tokenization, RMS-normalized embedding projections, a SiLU hidden neural layer, Softmax cross-entropy loss, and mini-batch backpropagation.",
+    "source": "Myst_Studio Core",
+    "license": "Apache-2.0"
+  },
+  {
     "q": "what is artificial intelligence",
-    "a": "Artificial intelligence: Artificial intelligence (AI) is the capability of computational systems to perform tasks typically associated with human intelligence, such as learning, reasoning, problem-solving, perception, and decision-making. It is also a field of research spanning computer science, engineering, and mathematics that develops and studies methods and software enabling machines to perceive their environment and "
+    "a": "Artificial intelligence (AI) is the capability of computational systems to perform tasks typically associated with human intelligence, such as learning, reasoning, problem-solving, perception, and decision-making. It is also a field of research spanning computer science, engineering, and mathematics that develops and studies methods and software enabling machines to perceive their environment and use learning and intelligence to take actions that maximise their chances of achieving defined goals. (Source: Wikipedia, CC BY-SA 4.0)",
+    "source": "Wikipedia REST API",
+    "license": "CC BY-SA 4.0"
   },
   {
     "q": "what is machine learning",
-    "a": "Machine learning: Machine learning (ML) is a field of study in artificial intelligence concerned with the development and study of statistical algorithms that can learn from data and generalize to unseen data, and thus perform tasks without being explicitly programmed."
+    "a": "Machine learning (ML) is a field of study in artificial intelligence concerned with the development and study of statistical algorithms that can learn from data and generalize to unseen data, and thus perform tasks without being explicitly programmed. (Source: Wikipedia, CC BY-SA 4.0)",
+    "source": "Wikipedia REST API",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "q": "what is deep learning",
+    "a": "In machine learning, deep learning (DL) focuses on utilizing multilayered neural networks to perform tasks such as classification, regression, and representation learning. The field takes inspiration from biological neuroscience and revolves around stacking artificial neurons into layers and \"training\" them to process data. The adjective \"deep\" refers to the use of multiple layers in the network. Methods used can be supervised, semi-supervised or unsupervised. (Source: Wikipedia, CC BY-SA 4.0)",
+    "source": "Wikipedia REST API",
+    "license": "CC BY-SA 4.0"
   },
   {
     "q": "what is transformer (deep learning)",
-    "a": "Transformer (deep learning): In deep learning, the transformer is a family of artificial neural network architectures based on the multi-head attention mechanism, in which input data such as text, images, or audio is converted to a sequence of numerical representations called tokens, and each token is converted into a vector through an embedding layer. At each layer, each token is then contextualized within the scope of the c"
+    "a": "In deep learning, the transformer is a family of artificial neural network architectures based on the multi-head attention mechanism, in which input data such as text, images, or audio is converted to a sequence of numerical representations called tokens, and each token is converted into a vector through an embedding layer. At each layer, each token is then contextualized within the scope of the context window with other (unmasked) tokens via a parallel multi-head attention mechanism, allowing the signal for key tokens to be amplified and less  (Source: Wikipedia, CC BY-SA 4.0)",
+    "source": "Wikipedia REST API",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "q": "what is neural network (machine learning)",
+    "a": "In machine learning, a neural network (NN) or artificial neural network (ANN) is a computational model inspired by the structure and functions of biological neural networks. (Source: Wikipedia, CC BY-SA 4.0)",
+    "source": "Wikipedia REST API",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "q": "what is natural language processing",
+    "a": "Natural language processing (NLP) is the processing of natural language information by a computer. NLP is a subfield of computer science and is closely associated with artificial intelligence. NLP is also related to information retrieval, knowledge representation, computational linguistics, and linguistics more broadly. (Source: Wikipedia, CC BY-SA 4.0)",
+    "source": "Wikipedia REST API",
+    "license": "CC BY-SA 4.0"
   },
   {
     "q": "what is python (programming language)",
-    "a": "Python (programming language): Python is a high-level, general-purpose programming language that emphasizes code readability, simplicity, and ease-of-writing with the use of significant indentation, an extensive (\"batteries-included\") standard library, and garbage collection. Python supports multiple programming paradigms but with an emphasis on object-oriented programming and dynamic typing."
+    "a": "Python is a high-level, general-purpose programming language that emphasizes code readability, simplicity, and ease-of-writing with the use of significant indentation, an extensive (\"batteries-included\") standard library, and garbage collection. Python supports multiple programming paradigms but with an emphasis on object-oriented programming and dynamic typing. (Source: Wikipedia, CC BY-SA 4.0)",
+    "source": "Wikipedia REST API",
+    "license": "CC BY-SA 4.0"
   },
   {
     "q": "what is sqlite",
-    "a": "SQLite: SQLite is a free and open-source relational database engine written in the C programming language. It is not a standalone application; rather, it is a library that software developers embed in their applications. As such, it belongs to the family of embedded databases. According to its developers, SQLite is the most widely deployed database engine, as it is used by several of the top web browsers,"
+    "a": "SQLite is a free and open-source relational database engine written in the C programming language. It is not a standalone application; rather, it is a library that software developers embed in their applications. As such, it belongs to the family of embedded databases. According to its developers, SQLite is the most widely deployed database engine, as it is used by several of the top web browsers, operating systems, mobile phones, and other embedded systems. (Source: Wikipedia, CC BY-SA 4.0)",
+    "source": "Wikipedia REST API",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "q": "what is open-source software",
+    "a": "Open-source software (OSS) is computer software released under a license allowing users to use, study, modify, and distribute it to anyone for any purpose – in contrast to proprietary (closed-source) software. These abilities are typically granted through open licenses or, more rarely, by dedication to the public domain. The development of open-source software can be based on open collaboration, a decentralized model of production. Open-source software is commonly defined according to The Open Source Definition of the Open Source Initiative, bu (Source: Wikipedia, CC BY-SA 4.0)",
+    "source": "Wikipedia REST API",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "q": "what is computer vision",
+    "a": "Computer vision tasks include methods for acquiring, processing, analyzing, and understanding digital images, and extraction of high-dimensional data from the real world in order to produce numerical or symbolic information, e.g. in the form of decisions. \"Understanding\" in this context signifies the transformation of visual images into descriptions of the world that make sense to thought processes and can elicit appropriate action. This image understanding can be seen as the disentangling of symbolic information from image data using models co (Source: Wikipedia, CC BY-SA 4.0)",
+    "source": "Wikipedia REST API",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "q": "what is reinforcement learning",
+    "a": "In machine learning and optimal control, reinforcement learning (RL) is concerned with how an intelligent agent should take actions in a dynamic environment in order to maximize a reward signal. Reinforcement learning is one of the three basic machine learning paradigms, alongside supervised learning and unsupervised learning. (Source: Wikipedia, CC BY-SA 4.0)",
+    "source": "Wikipedia REST API",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "q": "what is algorithm",
+    "a": "In mathematics and computer science, an algorithm is a finite sequence of mathematically rigorous instructions, typically used to solve a class of specific problems or to perform a computation. Algorithms are used as specifications for performing calculations and data processing. More advanced algorithms can use conditionals to divert the code execution through various routes and deduce valid inferences, achieving automation eventually. Using human characteristics as descriptors of machines in metaphorical ways was already practiced by Alan Tur (Source: Wikipedia, CC BY-SA 4.0)",
+    "source": "Wikipedia REST API",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "q": "research paper a tutorial about random neural networks in supervised learning",
+    "a": "[arXiv Open Access — A Tutorial about Random Neural Networks in Supervised Learning]: Random Neural Networks (RNNs) are a class of Neural Networks (NNs) that can also be seen as a specific type of queuing network. They have been successfully used in several domains during the last 25 years, as queuing networks to analyze the performance of resource sharing in many engineering areas, as learning tools and in combinatorial optimization, where they are seen as neural systems, and also as models of neurological aspects of living beings. In this article we focus on their learning capabilities, and more s",
+    "source": "arXiv Open Access",
+    "license": "arXiv Open Access"
+  },
+  {
+    "q": "research paper cross-language learning with adversarial neural networks: application to community question answering",
+    "a": "[arXiv Open Access — Cross-language Learning with Adversarial Neural Networks: Application to Community Question Answering]: We address the problem of cross-language adaptation for question-question similarity reranking in community question answering, with the objective to port a system trained on one input language to another input language given labeled training data for the first language and only unlabeled data for the second language. In particular, we propose to use adversarial training of neural networks to learn high-level features that are discriminative for the main learning task, and at the same time are invariant across the ",
+    "source": "arXiv Open Access",
+    "license": "arXiv Open Access"
+  },
+  {
+    "q": "research paper predicting concentration levels of air pollutants by transfer learning and recurrent neural network",
+    "a": "[arXiv Open Access — Predicting concentration levels of air pollutants by transfer learning and recurrent neural network]: Air pollution (AP) poses a great threat to human health, and people are paying more attention than ever to its prediction. Accurate prediction of AP helps people to plan for their outdoor activities and aids protecting human health. In this paper, long-short term memory (LSTM) recurrent neural networks (RNNs) have been used to predict the future concentration of air pollutants (APS) in Macau. Additionally, meteorological data and data on the concentration of APS have been utilized. Moreover, in Macau, some air qual",
+    "source": "arXiv Open Access",
+    "license": "arXiv Open Access"
+  },
+  {
+    "q": "research paper masked conditional neural networks for audio classification",
+    "a": "[arXiv Open Access — Masked Conditional Neural Networks for Audio Classification]: We present the ConditionaL Neural Network (CLNN) and the Masked ConditionaL Neural Network (MCLNN) designed for temporal signal recognition. The CLNN takes into consideration the temporal nature of the sound signal and the MCLNN extends upon the CLNN through a binary mask to preserve the spatial locality of the features and allows an automated exploration of the features combination analogous to hand-crafting the most relevant features for the recognition task. MCLNN has achieved competitive recognition accuracies ",
+    "source": "arXiv Open Access",
+    "license": "arXiv Open Access"
+  },
+  {
+    "q": "research paper modular mechanistic networks: on bridging mechanistic and phenomenological models with deep neural networks in natural language processing",
+    "a": "[arXiv Open Access — Modular Mechanistic Networks: On Bridging Mechanistic and Phenomenological Models with Deep Neural Networks in Natural Language Processing]: Natural language processing (NLP) can be done using either top-down (theory driven) and bottom-up (data driven) approaches, which we call mechanistic and phenomenological respectively. The approaches are frequently considered to stand in opposition to each other. Examining some recent approaches in deep learning we argue that deep neural networks incorporate both perspectives and, furthermore, that leveraging this aspect of deep learning may help in solving complex problems within language technology, such as model",
+    "source": "arXiv Open Access",
+    "license": "arXiv Open Access"
+  },
+  {
+    "q": "research paper the deep arbitrary polynomial chaos neural network or how deep artificial neural networks could benefit from data-driven homogeneous chaos theory",
+    "a": "[arXiv Open Access — The Deep Arbitrary Polynomial Chaos Neural Network or how Deep Artificial Neural Networks could benefit from Data-Driven Homogeneous Chaos Theory]: Artificial Intelligence and Machine learning have been widely used in various fields of mathematical computing, physical modeling, computational science, communication science, and stochastic analysis. Approaches based on Deep Artificial Neural Networks (DANN) are very popular in our days. Depending on the learning task, the exact form of DANNs is determined via their multi-layer architecture, activation functions and the so-called loss function. However, for a majority of deep learning approaches based on DANNs, t",
+    "source": "arXiv Open Access",
+    "license": "arXiv Open Access"
+  },
+  {
+    "q": "research paper how do language models learn facts? dynamics, curricula and hallucinations",
+    "a": "[arXiv Open Access — How do language models learn facts? Dynamics, curricula and hallucinations]: Large language models accumulate vast knowledge during pre-training, yet the dynamics governing this acquisition remain poorly understood. This work investigates the learning dynamics of language models on a synthetic factual recall task, uncovering three key findings: First, language models learn in three phases, exhibiting a performance plateau before acquiring precise factual knowledge. Mechanistically, this plateau coincides with the formation of attention-based circuits that support recall. Second, the trainin",
+    "source": "arXiv Open Access",
+    "license": "arXiv Open Access"
+  },
+  {
+    "q": "research paper hierarchical character embeddings: learning phonological and semantic representations in languages of logographic origin using recursive neural networks",
+    "a": "[arXiv Open Access — Hierarchical Character Embeddings: Learning Phonological and Semantic Representations in Languages of Logographic Origin using Recursive Neural Networks]: Logographs (Chinese characters) have recursive structures (i.e. hierarchies of sub-units in logographs) that contain phonological and semantic information, as developmental psychology literature suggests that native speakers leverage on the structures to learn how to read. Exploiting these structures could potentially lead to better embeddings that can benefit many downstream tasks. We propose building hierarchical logograph (character) embeddings from logograph recursive structures using treeLSTM, a recursive neur",
+    "source": "arXiv Open Access",
+    "license": "arXiv Open Access"
   }
 ]

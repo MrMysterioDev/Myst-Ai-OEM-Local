@@ -7,6 +7,6 @@ Myst_Studio system requirements (100% Free & Open Source, $0 investment)
 5. GPU: NVIDIA RTX 4050 6 GB (driver/CUDA UMD 13.5 present, verified)
 6. Inference engine: koboldcpp (AGPL-3.0, no Ollama)
 7. Public tunnel: cloudflared (Apache-2.0, zero-cost Quick Tunnel)
-8. Models: Open-weight GGUF files under 02_Myst_Series
+8. Models: Open-weight GGUF files under 02_Myst_Series + From-Scratch Mr.AI Neural Net under 11_Myst_AI
 
 No Ollama or paid cloud dependency required.
