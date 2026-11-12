@@ -2,6 +2,6 @@
   "engine": "MrAIUnifiedBrain-ScratchNet",
   "license": "Apache-2.0",
   "epochs": 35,
-  "loss": 0.8318,
-  "corpus_size": 23
+  "loss": 2.2575,
+  "corpus_size": 55
 }

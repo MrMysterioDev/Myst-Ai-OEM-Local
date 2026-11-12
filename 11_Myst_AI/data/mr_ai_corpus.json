@@ -18,6 +18,198 @@
     "license": "Apache-2.0"
   },
   {
+    "q": "when did virgin australia start operating?",
+    "a": "Virgin Australia commenced services on 31 August 2000 as Virgin Blue, with two aircraft on a single route.",
+    "source": "databricks/databricks-dolly-15k",
+    "license": "CC BY-SA 3.0"
+  },
+  {
+    "q": "why can camels survive for long without water?",
+    "a": "Camels use the fat in their humps to keep them filled with energy and hydration for long periods of time.",
+    "source": "databricks/databricks-dolly-15k",
+    "license": "CC BY-SA 3.0"
+  },
+  {
+    "q": "alice's parents have three daughters: amy, jessy, and what’s the name of the third daughter?",
+    "a": "The name of the third daughter is Alice",
+    "source": "databricks/databricks-dolly-15k",
+    "license": "CC BY-SA 3.0"
+  },
+  {
+    "q": "when was tomoaki komorida born?",
+    "a": "Tomoaki Komorida was born on July 10,1981.",
+    "source": "databricks/databricks-dolly-15k",
+    "license": "CC BY-SA 3.0"
+  },
+  {
+    "q": "if i have more pieces at the time of stalemate, have i won?",
+    "a": "No. Stalemate is a drawn position. It doesn't matter who has captured more pieces or is in a winning position",
+    "source": "databricks/databricks-dolly-15k",
+    "license": "CC BY-SA 3.0"
+  },
+  {
+    "q": "given a reference text about lollapalooza, where does it take place, who started it and what is it?",
+    "a": "Lollapalooze is an annual musical festival held in Grant Park in Chicago, Illinois. It was started in 1991 as a farewell tour by Perry Farrell, singe of the group Jane's Addiction. The festival includes an array of musical genres including alternative rock, heavy metal, punk rock, hip hop, and electronic dance music. The festivals welcomes an estimated 400,000 people each year and sells out annually. Some notable headliners include: the Red Hot Chili Peppers, Chance the Rapper, Metallica, and Lady Gage. Lollapalooza is one of the largest and mo",
+    "source": "databricks/databricks-dolly-15k",
+    "license": "CC BY-SA 3.0"
+  },
+  {
+    "q": "who gave the un the land in ny to build their hq",
+    "a": "John D Rockerfeller",
+    "source": "databricks/databricks-dolly-15k",
+    "license": "CC BY-SA 3.0"
+  },
+  {
+    "q": "why mobile is bad for human",
+    "a": "We are always engaged one phone which is not good.",
+    "source": "databricks/databricks-dolly-15k",
+    "license": "CC BY-SA 3.0"
+  },
+  {
+    "q": "who was john moses browning?",
+    "a": "John Moses Browning is one of the most well-known designer of modern firearms. He started building firearms in his father's shop at the age of 13, and was awarded his first patent when he was 24. He designed the first reliable automatic pistol, and the first gas-operated firearm, as well inventing or improving single-shot, lever-action, and pump-action rifles and shotguns. Today, he is most well-known for the M1911 pistol, the Browning Automatic Rifle, and the Auto-5 shotgun, all of which are in still in current production in either their origi",
+    "source": "databricks/databricks-dolly-15k",
+    "license": "CC BY-SA 3.0"
+  },
+  {
+    "q": "who is thomas jefferson?",
+    "a": "Thomas Jefferson (April 13, 1743 – July 4, 1826) was an American statesman, diplomat, lawyer, architect, philosopher, and Founding Father who served as the third president of the United States from 1801 to 1809. Among the Committee of Five charged by the Second Continental Congress with authoring the Declaration of Independence, Jefferson was the Declaration's primary author. Following the American Revolutionary War and prior to becoming the nation's third president in 1801, Jefferson was the first United States secretary of state under George ",
+    "source": "databricks/databricks-dolly-15k",
+    "license": "CC BY-SA 3.0"
+  },
+  {
+    "q": "who was kyle van zyl playing against when he scored 36 of hisa teams 61 points?",
+    "a": "Kyle Van Zyl was playing against Boland U21 when he scored 36 points, leading his team to victory in a 61-3 win.",
+    "source": "databricks/databricks-dolly-15k",
+    "license": "CC BY-SA 3.0"
+  },
+  {
+    "q": "from the passage list down the areas for which dar es salaam is tanzania's most prominent city. list the results in comma separated format.",
+    "a": "arts, fashion, media, film, television, finance",
+    "source": "databricks/databricks-dolly-15k",
+    "license": "CC BY-SA 3.0"
+  },
+  {
+    "q": "what is a polygon?",
+    "a": "A polygon is a form in Geometry. It is a single dimensional plane made of connecting lines and any number of vertices. It is a closed chain of connected line segments or edges. The vertices of the polygon are formed where two edges meet. Examples of polygons are hexagons, pentagons, and octagons. Any plane that does not contain edges or vertices is not a polygon. An example of a non-polygon is a circle.",
+    "source": "databricks/databricks-dolly-15k",
+    "license": "CC BY-SA 3.0"
+  },
+  {
+    "q": "how do i start running?",
+    "a": "Make sure you get comfortable running shoes and attire. Start with achievable goal in mind like a 5K race. If you never ran before, start gradually from a walk, to brisk walk, light jog aiming for 15-30mins initially. Slowly increase your running time and distance as your fitness level improves. One of the most important things is cool down and gentle stretching. Always listen to your body, and take rest days when needed to prevent injury.",
+    "source": "databricks/databricks-dolly-15k",
+    "license": "CC BY-SA 3.0"
+  },
+  {
+    "q": "which episodes of season four of game of thrones did michelle maclaren direct?",
+    "a": "She directed \"Oathkeeper\" and \"First of His Name\" the fourth and fifth episodes of season four, respectively.",
+    "source": "databricks/databricks-dolly-15k",
+    "license": "CC BY-SA 3.0"
+  },
+  {
+    "q": "what is process mining?",
+    "a": "Process mining brings together data mining, data science and process management to find process efficiencies.",
+    "source": "databricks/databricks-dolly-15k",
+    "license": "CC BY-SA 3.0"
+  },
+  {
+    "q": "what are some unique curtain tie backs that you can make yourself?",
+    "a": "There are many items you can use to make a curtain tie back. Some ideas for this include a chain, a circle and pin, jute rope, wooden beaded rope, a necklack or bracelet, a door knob, a length of a leather belt, macrame rope, or a string of artificial flowers.",
+    "source": "databricks/databricks-dolly-15k",
+    "license": "CC BY-SA 3.0"
+  },
+  {
+    "q": "what is a dispersive prism?",
+    "a": "A dispersive prism is an optical prism that disperses the light's different wavelengths at different angles. When white light is shined through a dispersive prism it will separate into the different colors of the rainbow.",
+    "source": "databricks/databricks-dolly-15k",
+    "license": "CC BY-SA 3.0"
+  },
+  {
+    "q": "identify which instrument is string or percussion: cantaro, gudok",
+    "a": "Gudok is string, Cantaro is percussion.",
+    "source": "databricks/databricks-dolly-15k",
+    "license": "CC BY-SA 3.0"
+  },
+  {
+    "q": "give me the top 5 golf equipment company names.",
+    "a": "Titleist, Taylormade, Callaway, Ping, Cobra",
+    "source": "databricks/databricks-dolly-15k",
+    "license": "CC BY-SA 3.0"
+  },
+  {
+    "q": "what individual has won the most olympic gold medals in the history of the games?",
+    "a": "Michael Phelps has won the most gold medals of all time with 23 golds.",
+    "source": "databricks/databricks-dolly-15k",
+    "license": "CC BY-SA 3.0"
+  },
+  {
+    "q": "what happens when the sun goes down?",
+    "a": "When the sun sets, the evening starts.",
+    "source": "databricks/databricks-dolly-15k",
+    "license": "CC BY-SA 3.0"
+  },
+  {
+    "q": "what is a verb?",
+    "a": "A verb is an action word that describes an activity. Examples of verbs are the following: swimming, hiking, biking, roller skating, or skydiving. All of these single and combination word examples are tied to an activity that any living thing can do. For example, a dog can bike ride with a human when the human is pedaling the bike. Verb use is not limited to humans or people only but applies to all living things.",
+    "source": "databricks/databricks-dolly-15k",
+    "license": "CC BY-SA 3.0"
+  },
+  {
+    "q": "extract the owner of lamborghini and a listing of the different types of huracan cars that lamborghini has produced for its motorsport division.",
+    "a": "Vokswagen Group owns Lamborghini through its subsidiary, Audi. Lamborghini has produced the following Huracan motorsport models: - Huracán LP 620-2 Super Trofeo EVO - Huracán LP 620-2 Super Trofeo EVO2 - Huracán Super Trofeo GT2 - Huracán GT3 - Huracán GT3 Evo - Huracán GT3 Evo 2",
+    "source": "databricks/databricks-dolly-15k",
+    "license": "CC BY-SA 3.0"
+  },
+  {
+    "q": "which of the following is useful for transportation: a glass of wine, a lamp, a train, an iced cube tray, a plane, a bicycle, an apple and a scooter.",
+    "a": "The useful objects for transportation in the list are train, plane, bicyle and scooter.",
+    "source": "databricks/databricks-dolly-15k",
+    "license": "CC BY-SA 3.0"
+  },
+  {
+    "q": "identify which instrument is string or woodwind: panduri, zurna",
+    "a": "Zurna is woodwind, Panduri is string.",
+    "source": "databricks/databricks-dolly-15k",
+    "license": "CC BY-SA 3.0"
+  },
+  {
+    "q": "what is the average lifespan of a golden retriever?",
+    "a": "The average lifespan of a Golden Retriever is 12 to 13 years.",
+    "source": "databricks/databricks-dolly-15k",
+    "license": "CC BY-SA 3.0"
+  },
+  {
+    "q": "who became king of holland in 1806?",
+    "a": "William I of the Netherlands became king of Holland in 1806.",
+    "source": "databricks/databricks-dolly-15k",
+    "license": "CC BY-SA 3.0"
+  },
+  {
+    "q": "what is best playstation or xbox",
+    "a": "Playstation and Xbox are two competing game consoles, where which is \"best\" will depend on the preferences of the gamer. From a graphics and performance perspective they are comparable, with Sony's Playstation technically leading, though most gamers would be unlikely to notice a significant difference. From a game library perspective, both consoles have their respective first-party titles that appeal to different demographics. For example, Microsoft has seen great popularity due to popular title Halo being exclusively available on the console. ",
+    "source": "databricks/databricks-dolly-15k",
+    "license": "CC BY-SA 3.0"
+  },
+  {
+    "q": "why did syd barrett left the pink floyd?",
+    "a": "Syd Barrett was one of the main members of the Pink Floyd. He has used drugs a lot and after a while he was not able to perform with the team. Even though the band gave him multiple chances, he could not keep up with the band. In the end, they had to ask him to leave the band. The main reason that he has left the team is his health problems and addiction to drugs.",
+    "source": "databricks/databricks-dolly-15k",
+    "license": "CC BY-SA 3.0"
+  },
+  {
+    "q": "what is rest api",
+    "a": "REST API is an architectural style for building network APIs. In practice, most REST APIs are using JSON over HTTP. REST APIs have several properties that make them very popular. HTTP is the foundational and the most popular network protocol across the internet. By using HTTP, REST APIs can fully utilize the internet infrastructure, which greatly reduce the complexity and operational costs. For example, using HTTPS for transport security, and using URL for request routing. JSON is a simple, stable, and intuitive data format , which is not expec",
+    "source": "databricks/databricks-dolly-15k",
+    "license": "CC BY-SA 3.0"
+  },
+  {
+    "q": "what is underwriting?",
+    "a": "Underwriting (UW) services are provided by some large financial institutions, such as banks, insurance companies and investment houses, whereby they guarantee payment in case of damage or financial loss and accept the financial risk for liability arising from such guarantee. An underwriting arrangement may be created in a number of situations including insurance, issues of security in a public offering, and bank lending, among others. The person or institution that agrees to sell a minimum number of securities of the company for commission is c",
+    "source": "databricks/databricks-dolly-15k",
+    "license": "CC BY-SA 3.0"
+  },
+  {
     "q": "what is artificial intelligence",
     "a": "Artificial intelligence (AI) is the capability of computational systems to perform tasks typically associated with human intelligence, such as learning, reasoning, problem-solving, perception, and decision-making. It is also a field of research spanning computer science, engineering, and mathematics that develops and studies methods and software enabling machines to perceive their environment and use learning and intelligence to take actions that maximise their chances of achieving defined goals. (Source: Wikipedia, CC BY-SA 4.0)",
     "source": "Wikipedia REST API",
