@@ -1,0 +1,8 @@
+# Mr.AI from-scratch web server (MrAIUnifiedBrain + Kai 9000 Fusion) requires only Python 3.12+ standard library.
+# No external pip packages are required for the core build.
+
+# Optional for future upgrades:
+# fastapi
+# uvicorn
+# torch
+# numpy

@@ -1,0 +1,73 @@
+=== AUTONOMOUS PASS 2026-11-11T21:15:54+06:30 ===
+[OK] Myst_Studio build passed
+STATS: {"total_pairs": 5, "epochs": 275, "loss": 0.0508, "gpu_online": false}
+CHAT: {"status": "ok", "reply": "Transformer (deep learning): In deep learning, the transformer is a family of artificial neural network architectures based on the multi-head attention mechanism, in which input data such as text, images, or audio is converted to a sequence of numerical representations called tokens, and each token is converted into a vector through an embedding layer. At each layer, each token is then contextualized within the scope of the c", "confidence": 73.9, "loss": 0.0508, "engine": "Mr.AI Pure-Python Neural Engine"}
+AUTONOMOUS_CHECK=PASS
+Downloading https://github.com/LostRuins/koboldcpp/releases/latest/download/koboldcpp.exe -> E:\Myst_Studio\01_Engines\koboldcpp\koboldcpp.exe
+Downloading https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct-GGUF/resolve/main/qwen2.5-1.5b-instruct-q4_k_m.gguf -> E:\Myst_Studio\02_Myst_Series\Myst_Nano_2B\Myst-Nano-2B.gguf
+Downloading https://huggingface.co/microsoft/Phi-3-mini-4k-instruct-gguf/resolve/main/Phi-3-mini-4k-instruct-q4.gguf -> E:\Myst_Studio\02_Myst_Series\Myst_Prime_4B\Myst-Prime-4B.gguf
+Downloading https://huggingface.co/MaziyarPanahi/Mistral-7B-Instruct-v0.3-GGUF/resolve/main/Mistral-7B-Instruct-v0.3.Q4_K_M.gguf -> E:\Myst_Studio\02_Myst_Series\Myst_Realm_8B\Myst-Realm-8B.gguf
+Downloading https://huggingface.co/Qwen/Qwen2.5-Coder-7B-Instruct-GGUF/resolve/main/qwen2.5-coder-7b-instruct-q4_k_m.gguf -> E:\Myst_Studio\02_Myst_Series\Myst_Architect_7B\Myst-Architect-7B.gguf
+Invoke-WebRequest : Unable to read data from the transport connection: An existing connection was forcibly closed by 
+the remote host.
+At E:\Myst_Studio\download_models.ps1:4 char:3
++   Invoke-WebRequest -Uri $url -OutFile $dest -UseBasicParsing
++   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [Invoke-WebRequest], IOException
+    + FullyQualifiedErrorId : System.IO.IOException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand
+ 
+Downloading https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-windows-amd64.exe -> E:\Myst_Studio\11_Myst_AI\bin\cloudflared.exe
+Invoke-WebRequest : The remote name could not be resolved: 'github.com'
+At E:\Myst_Studio\download_models.ps1:4 char:3
++   Invoke-WebRequest -Uri $url -OutFile $dest -UseBasicParsing
++   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest], WebExc 
+   eption
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand
+ 
+All downloads complete.
+=== AUTONOMOUS PASS 2026-11-11T23:04:38+06:30 ===
+[OK] Myst_Studio build passed
+STATS: {"total_pairs": 5, "epochs": 275, "loss": 0.0508, "gpu_online": false}
+CHAT: {"status": "ok", "reply": "I am Mr.AI v3.0 (5 memories, Loss=0.0508). Use 'Fetch Web Batch' or teach me 'hello'.", "confidence": 78.0, "loss": 0.0508, "engine": "Mr.AI Pure-Python Neural Engine"}
+AUTONOMOUS_CHECK=PASS
+Downloading https://github.com/LostRuins/koboldcpp/releases/latest/download/koboldcpp.exe -> E:\Myst_Studio\01_Engines\koboldcpp\koboldcpp.exe
+Downloading https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct-GGUF/resolve/main/qwen2.5-1.5b-instruct-q4_k_m.gguf -> E:\Myst_Studio\02_Myst_Series\Myst_Nano_2B\Myst-Nano-2B.gguf
+Downloading https://huggingface.co/microsoft/Phi-3-mini-4k-instruct-gguf/resolve/main/Phi-3-mini-4k-instruct-q4.gguf -> E:\Myst_Studio\02_Myst_Series\Myst_Prime_4B\Myst-Prime-4B.gguf
+Downloading https://huggingface.co/MaziyarPanahi/Mistral-7B-Instruct-v0.3-GGUF/resolve/main/Mistral-7B-Instruct-v0.3.Q4_K_M.gguf -> E:\Myst_Studio\02_Myst_Series\Myst_Realm_8B\Myst-Realm-8B.gguf
+Downloading https://huggingface.co/Qwen/Qwen2.5-Coder-7B-Instruct-GGUF/resolve/main/qwen2.5-coder-7b-instruct-q4_k_m.gguf -> E:\Myst_Studio\02_Myst_Series\Myst_Architect_7B\Myst-Architect-7B.gguf
+Downloading https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-windows-amd64.exe -> E:\Myst_Studio\11_Myst_AI\bin\cloudflared.exe
+All downloads complete.
+=== AUTONOMOUS PASS 2026-11-12T01:40:33+06:30 ===
+[OK] Myst_Studio build passed
+STATS: {"total_pairs": 5, "epochs": 275, "loss": 0.0508, "gpu_online": false}
+CHAT: {"status": "ok", "reply": "Artificial intelligence: Artificial intelligence (AI) is the capability of computational systems to perform tasks typically associated with human intelligence, such as learning, reasoning, problem-solving, perception, and decision-making. It is also a field of research spanning computer science, engineering, and mathematics that develops and studies methods and software enabling machines to perceive their environment and ", "confidence": 74.3, "loss": 0.0508, "engine": "Mr.AI Pure-Python Neural Engine"}
+AUTONOMOUS_CHECK=PASS
+Downloading https://github.com/LostRuins/koboldcpp/releases/latest/download/koboldcpp.exe -> E:\Myst_Studio\01_Engines\koboldcpp\koboldcpp.exe
+Downloading https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct-GGUF/resolve/main/qwen2.5-1.5b-instruct-q4_k_m.gguf -> E:\Myst_Studio\02_Myst_Series\Myst_Nano_2B\Myst-Nano-2B.gguf
+Downloading https://huggingface.co/microsoft/Phi-3-mini-4k-instruct-gguf/resolve/main/Phi-3-mini-4k-instruct-q4.gguf -> E:\Myst_Studio\02_Myst_Series\Myst_Prime_4B\Myst-Prime-4B.gguf
+Downloading https://huggingface.co/MaziyarPanahi/Mistral-7B-Instruct-v0.3-GGUF/resolve/main/Mistral-7B-Instruct-v0.3.Q4_K_M.gguf -> E:\Myst_Studio\02_Myst_Series\Myst_Realm_8B\Myst-Realm-8B.gguf
+Downloading https://huggingface.co/Qwen/Qwen2.5-Coder-7B-Instruct-GGUF/resolve/main/qwen2.5-coder-7b-instruct-q4_k_m.gguf -> E:\Myst_Studio\02_Myst_Series\Myst_Architect_7B\Myst-Architect-7B.gguf
+Invoke-WebRequest : Unable to read data from the transport connection: An existing connection was forcibly closed by 
+the remote host.
+At E:\Myst_Studio\download_models.ps1:4 char:3
++   Invoke-WebRequest -Uri $url -OutFile $dest -UseBasicParsing
++   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [Invoke-WebRequest], IOException
+    + FullyQualifiedErrorId : System.IO.IOException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand
+ 
+Downloading https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-windows-amd64.exe -> E:\Myst_Studio\11_Myst_AI\bin\cloudflared.exe
+All downloads complete.
+=== AUTONOMOUS PASS 2026-11-12T06:08:36+06:30 ===
+[OK] Myst_Studio build passed
+STATS: {"total_pairs": 5, "epochs": 275, "loss": 0.0508, "gpu_online": false}
+CHAT: {"status": "ok", "reply": "Machine learning: Machine learning (ML) is a field of study in artificial intelligence concerned with the development and study of statistical algorithms that can learn from data and generalize to unseen data, and thus perform tasks without being explicitly programmed.", "confidence": 74.4, "loss": 0.0508, "engine": "Mr.AI Pure-Python Neural Engine"}
+AUTONOMOUS_CHECK=PASS
+Downloading https://github.com/LostRuins/koboldcpp/releases/latest/download/koboldcpp.exe -> E:\Myst_Studio\01_Engines\koboldcpp\koboldcpp.exe
+Downloading https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct-GGUF/resolve/main/qwen2.5-1.5b-instruct-q4_k_m.gguf -> E:\Myst_Studio\02_Myst_Series\Myst_Nano_2B\Myst-Nano-2B.gguf
+Downloading https://huggingface.co/microsoft/Phi-3-mini-4k-instruct-gguf/resolve/main/Phi-3-mini-4k-instruct-q4.gguf -> E:\Myst_Studio\02_Myst_Series\Myst_Prime_4B\Myst-Prime-4B.gguf
+Downloading https://huggingface.co/MaziyarPanahi/Mistral-7B-Instruct-v0.3-GGUF/resolve/main/Mistral-7B-Instruct-v0.3.Q4_K_M.gguf -> E:\Myst_Studio\02_Myst_Series\Myst_Realm_8B\Myst-Realm-8B.gguf
+Downloading https://huggingface.co/Qwen/Qwen2.5-Coder-7B-Instruct-GGUF/resolve/main/qwen2.5-coder-7b-instruct-q4_k_m.gguf -> E:\Myst_Studio\02_Myst_Series\Myst_Architect_7B\Myst-Architect-7B.gguf
+Downloading https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-windows-amd64.exe -> E:\Myst_Studio\11_Myst_AI\bin\cloudflared.exe
+All downloads complete.
+AUTONOMOUS_WINDOW_DONE

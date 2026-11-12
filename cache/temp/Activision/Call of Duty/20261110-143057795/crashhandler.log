@@ -1,0 +1,45 @@
+[14:30:57(874ms) UTC][   INFO][               ]: == Initialization - Crash Handler v2.2.0 ==
+[14:30:57(874ms) UTC][WARNING][        CMDLINE]: The given argument [of] hasn't been found. ( ill-formatted argument name ? )
+[14:30:57(874ms) UTC][WARNING][        CMDLINE]: The given argument [Duty] hasn't been found. ( ill-formatted argument name ? )
+[14:30:57(874ms) UTC][WARNING][        CMDLINE]: The given argument [-] hasn't been found. ( ill-formatted argument name ? )
+[14:30:57(874ms) UTC][WARNING][        CMDLINE]: The given argument [Modern] hasn't been found. ( ill-formatted argument name ? )
+[14:30:57(874ms) UTC][WARNING][        CMDLINE]: The given argument [Warfare] hasn't been found. ( ill-formatted argument name ? )
+[14:30:57(874ms) UTC][WARNING][        CMDLINE]: The given argument [4\sp26\\codCrashHandler.exe] hasn't been found. ( ill-formatted argument name ? )
+[14:30:57(874ms) UTC][WARNING][        CMDLINE]: The given argument [hdeyguxs3zaumvlgvybm2vyc] hasn't been found. ( ill-formatted argument name ? )
+[14:30:57(874ms) UTC][   INFO][        CMDLINE]: Argument [--project] has been set to : [cod]
+[14:30:57(874ms) UTC][   INFO][        CMDLINE]: Argument [--project_description_wide] has been set to : [Call of Duty®: Modern Warfare® 4 SP]
+[14:30:57(874ms) UTC][   INFO][        CMDLINE]: Argument [--engine_pid] has been set to : 33252
+[14:30:57(874ms) UTC][   INFO][        CMDLINE]: Argument [--engine_build] has been set to : [public_ship]
+[14:30:57(874ms) UTC][   INFO][        CMDLINE]: Argument [--engine_exec_name] has been set to : [sp26-cod.exe]
+[14:30:57(874ms) UTC][   INFO][        CMDLINE]: Argument [--engine_changelist] has been set to : 29465156
+[14:30:57(874ms) UTC][   INFO][        CMDLINE]: Argument [--engine_depot] has been set to : [rex]
+[14:30:57(874ms) UTC][   INFO][        CMDLINE]: Argument [--engine_branch] has been set to : [cert]
+[14:30:57(874ms) UTC][   INFO][        CMDLINE]: Argument [--engine_version] has been set to : [2.2.0]
+[14:30:57(874ms) UTC][   INFO][        CMDLINE]: Argument [--exception_info_addr] has been set to : 140695140811072
+[14:30:57(874ms) UTC][   INFO][        CMDLINE]: Argument [--shared_mutex_name] has been set to : [namedMutex-20261110-143057795]
+[14:30:57(874ms) UTC][   INFO][        CMDLINE]: Argument [--folder_crashreport] has been set to : [C:\Users\ADMIN_K & S\AppData\Local\Activision\Call of Duty\crash_reports]
+[14:30:57(874ms) UTC][   INFO][        CMDLINE]: Argument [--folder_temp] has been set to : [E:\Myst_Studio\cache\temp\\Activision\Call of Duty\20261110-143057795]
+[14:30:57(874ms) UTC][   INFO][        CMDLINE]: Argument [--fullpath_datafile] has been set to : [E:\Myst_Studio\cache\temp\\Activision\Call of Duty\20261110-143057795\datafile.json]
+[14:30:57(874ms) UTC][   INFO][        CMDLINE]: Argument [--fullpath_bnet_launcher] has been set to : []
+[14:30:57(874ms) UTC][   INFO][        CMDLINE]: Argument [--time_code] has been set to : [20261110-143057795]
+[14:30:57(874ms) UTC][   INFO][        CMDLINE]: Argument [--throttle_dev] has been set to : 1.000000
+[14:30:57(874ms) UTC][   INFO][        CMDLINE]: Argument [--throttle_dev_fb] has been set to : 1.000000
+[14:30:57(874ms) UTC][   INFO][        CMDLINE]: Argument [--throttle_prod] has been set to : 0.020000
+[14:30:57(874ms) UTC][   INFO][        CMDLINE]: Argument [--throttle_prod_fb] has been set to : 0.020000
+[14:30:57(874ms) UTC][   INFO][        CMDLINE]: Argument [--titleid_dev] has been set to : 7521
+[14:30:57(874ms) UTC][   INFO][        CMDLINE]: Argument [--titleid_prod] has been set to : 7501
+[14:30:57(874ms) UTC][   INFO][        CMDLINE]: Argument [--first_party] has been set to : [steam]
+[14:30:57(874ms) UTC][   INFO][        CMDLINE]: Argument [--first_party_project] has been set to : [sp26]
+[14:30:57(874ms) UTC][   INFO][        CMDLINE]: Option [--opt-allow_crash_upload] has been enabled.
+[14:30:57(874ms) UTC][   INFO][        CMDLINE]: Option [--opt-allow_dump_generation] has been enabled.
+[14:30:57(874ms) UTC][   INFO][        CMDLINE]: Option [--opt-allow_runtime_dump_generation] has been enabled.
+[14:30:57(874ms) UTC][   INFO][        CMDLINE]: Option [--opt-allow_popup_display] has been enabled.
+[14:30:57(874ms) UTC][   INFO][        CMDLINE]: Option [--opt-packaged_build] has been enabled.
+[14:30:57(874ms) UTC][   INFO][        CMDLINE]: Option [--opt-allow_old_crashes_reupload] has been enabled.
+[14:30:57(874ms) UTC][   INFO][        CMDLINE]: Option [--opt-enable_save_dlog_events_feature] has been enabled.
+[14:30:57(874ms) UTC][   INFO][        CMDLINE]: Option [--opt-allow_popup_display_post_preload] has been enabled.
+[14:30:57(874ms) UTC][   INFO][        CMDLINE]: Option [--opt-allow_crash_procedure_timeout] has been enabled.
+[14:30:57(874ms) UTC][   INFO][        CMDLINE]: All required arguments have been correctly given in command line.
+[14:30:57(874ms) UTC][   INFO][           CORE]: Crash handler - Version 2.2.0
+[14:30:57(874ms) UTC][   INFO][           CORE]: Game Engine   - Version 2.2.0
+[14:30:57(874ms) UTC][   INFO][               ]: == Closing the logfile ==

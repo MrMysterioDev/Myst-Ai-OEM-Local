@@ -1,0 +1,22 @@
+[
+  {
+    "q": "what is artificial intelligence",
+    "a": "Artificial intelligence: Artificial intelligence (AI) is the capability of computational systems to perform tasks typically associated with human intelligence, such as learning, reasoning, problem-solving, perception, and decision-making. It is also a field of research spanning computer science, engineering, and mathematics that develops and studies methods and software enabling machines to perceive their environment and "
+  },
+  {
+    "q": "what is machine learning",
+    "a": "Machine learning: Machine learning (ML) is a field of study in artificial intelligence concerned with the development and study of statistical algorithms that can learn from data and generalize to unseen data, and thus perform tasks without being explicitly programmed."
+  },
+  {
+    "q": "what is transformer (deep learning)",
+    "a": "Transformer (deep learning): In deep learning, the transformer is a family of artificial neural network architectures based on the multi-head attention mechanism, in which input data such as text, images, or audio is converted to a sequence of numerical representations called tokens, and each token is converted into a vector through an embedding layer. At each layer, each token is then contextualized within the scope of the c"
+  },
+  {
+    "q": "what is python (programming language)",
+    "a": "Python (programming language): Python is a high-level, general-purpose programming language that emphasizes code readability, simplicity, and ease-of-writing with the use of significant indentation, an extensive (\"batteries-included\") standard library, and garbage collection. Python supports multiple programming paradigms but with an emphasis on object-oriented programming and dynamic typing."
+  },
+  {
+    "q": "what is sqlite",
+    "a": "SQLite: SQLite is a free and open-source relational database engine written in the C programming language. It is not a standalone application; rather, it is a library that software developers embed in their applications. As such, it belongs to the family of embedded databases. According to its developers, SQLite is the most widely deployed database engine, as it is used by several of the top web browsers,"
+  }
+]

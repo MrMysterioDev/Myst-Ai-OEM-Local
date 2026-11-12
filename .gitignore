@@ -1,0 +1,14 @@
+# Ignore multi-gigabyte GGUF model files, portable binaries, and runtime caches
+01_Engines/
+02_Myst_Series/*/*.gguf
+02_Myst_Series/Base_Weights/*.gguf
+04_Logs_And_Cache/
+11_Myst_AI/bin/*.exe
+*.gguf
+*.pt
+*.exe
+*.zip
+*.db-shm
+*.db-wal
+__pycache__/
+.env

@@ -1,0 +1,7 @@
+{
+  "engine": "MrAIUnifiedBrain",
+  "d_model": 256,
+  "epochs": 150,
+  "loss": 0.0707,
+  "corpus_size": 5
+}
